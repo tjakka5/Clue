@@ -10,10 +10,13 @@ You can create your own with ease, or use some that others have created.
 Clue also comes with a few widgets by default:
 
 textButton - A simple button that can display text.
+
 checkBox - A button that toggles between 2 states when clicked.
+
 slider - A slider to input a value.
+
 progressBar - A simple bar that displays progress.
+
 window - A widget that can hold other widgets. ( Including other windows. )
-dummy - A basic object useful for doing logic.
 
-
+dummy - A barebones object useful for doing logic.
